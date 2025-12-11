@@ -6,7 +6,7 @@ import os
 st.set_page_config(page_title="Pokhara Sentiment Analysis", page_icon="⛰️", layout="wide")
 
 
-image_path = "../App/assets/pokhara.webp"          
+image_path = "App/assets/pokhara.webp"          
 
 
 if os.path.exists(image_path):
