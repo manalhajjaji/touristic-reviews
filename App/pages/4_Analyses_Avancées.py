@@ -9,7 +9,7 @@ import numpy as np
 from collections import Counter
 import re
 
-df = pd.read_csv("../Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
+df = pd.read_csv("Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
 df['source_clean'] = df['source'].map({'real': 'Réel', 'synthetic_groq': 'Synthétique'})
 
 st.header("Analyses Avancées & Insights Uniques")

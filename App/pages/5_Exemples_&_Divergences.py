@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-df = pd.read_csv("../Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
+df = pd.read_csv("Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
 
 st.header("Exemples d’avis & Divergences VADER / RoBERTa")
 

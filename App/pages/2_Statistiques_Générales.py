@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # ====================== CHARGEMENT DES DONNÉES ======================
-df = pd.read_csv("../Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
+df = pd.read_csv("Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
 
 # Création d'une colonne lisible
 df['source_clean'] = df['source'].map({'real': 'Réel', 'synthetic_groq': 'Synthétique (Groq)'})

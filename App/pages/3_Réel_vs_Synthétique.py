@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # Chargement une seule fois
-df = pd.read_csv("../Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
+df = pd.read_csv("Data/Real and synthetic/pokhara_reviews_final_COMPLETE.csv")
 df['source_clean'] = df['source'].map({'real': 'Réel', 'synthetic_groq': 'Synthétique (Groq)'})
 
 st.header("Comparaison Réel vs Synthétique")
