@@ -3,7 +3,6 @@
 **Projet de module – IDSCC 3ème année Cycle Ingénieur**  
 **ENSA Oujda – Année Universitaire 2025-2026**
 
-- **Module** : Internet of Things (IoT)
 - **Date** :  Décembre 2025
 
 
@@ -100,9 +99,7 @@ Pipeline ETL complet exécuté dans le Cloud (Streamlit Community Cloud).
 
 ##  Auteur
 
-**[Manal Hajjaji]**  
-Étudiante IDSCC 3ème année – ENSA Oujda  
-Décembre 2025
+**Manal Hajjaji**  
 
 
 ---
