@@ -6,11 +6,10 @@
 - **Module** : Internet of Things (IoT)
 - **Date** :  Décembre 2025
 
-![Pokhara](App/assets/pokhara.webp)
 
 ---
 
-## 📋 Objectif du projet
+##  Objectif du projet
 
 Développer un système complet d'**analyse de sentiments** sur les avis touristiques de **Pokhara** à partir de **5 963 avis** :
 
@@ -24,7 +23,7 @@ Développer un système complet d'**analyse de sentiments** sur les avis tourist
 
 ---
 
-## ✨ Points forts du projet
+##  Points forts du projet
 
 - Comparaison inédite **réel vs synthétique** (biais des LLM quantifié)
 - Pipeline ETL complet exécuté dans le **Cloud**
@@ -35,7 +34,7 @@ Développer un système complet d'**analyse de sentiments** sur les avis tourist
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 TOURISTIC-REVIEWS/
@@ -49,7 +48,7 @@ TOURISTIC-REVIEWS/
 
 ---
 
-## 🚀 Installation & exécution en local
+##  Installation & exécution en local
 
 ### 1. Cloner le projet
 
@@ -74,7 +73,7 @@ Le dashboard s'ouvre automatiquement dans votre navigateur.
 
 ---
 
-## ☁️ Déploiement Cloud
+##  Déploiement Cloud
 
 L'application est déployée en permanence sur :  
 🔗 [https://manalhajjaji-touristic-reviews-appstreamlit-app-k4nc4t.streamlit.app/](https://manalhajjaji-touristic-reviews-appstreamlit-app-k4nc4t.streamlit.app/)
@@ -90,7 +89,7 @@ Pipeline ETL complet exécuté dans le Cloud (Streamlit Community Cloud).
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - **Python** – pandas – NLTK – Hugging Face Transformers
 - **Plotly** – WordCloud – Streamlit
@@ -99,7 +98,7 @@ Pipeline ETL complet exécuté dans le Cloud (Streamlit Community Cloud).
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **[Manal Hajjaji]**  
 Étudiante IDSCC 3ème année – ENSA Oujda  
@@ -108,6 +107,6 @@ Décembre 2025
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Ce projet est réalisé dans un cadre académique.
