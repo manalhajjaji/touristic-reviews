@@ -30,7 +30,7 @@ Développer un système complet d'**analyse de sentiments** sur les avis tourist
 - Dashboard interactif riche (7 pages, +25 visualisations)
 - Déploiement public sur **Streamlit Community Cloud**
 
-🌐 **Dashboard en ligne** : [https://pokhara-sentiment-analysis.streamlit.app](https://pokhara-sentiment-analysis.streamlit.app)
+🌐 **Dashboard en ligne** : [https://manalhajjaji-touristic-reviews-appstreamlit-app-k4nc4t.streamlit.app/Accueil](https://manalhajjaji-touristic-reviews-appstreamlit-app-k4nc4t.streamlit.app/Accueil)
 
 ---
 
