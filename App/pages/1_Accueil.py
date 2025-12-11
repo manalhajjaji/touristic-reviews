@@ -1,6 +1,4 @@
 
-
-
 import streamlit as st
 from PIL import Image
 import os
@@ -49,10 +47,8 @@ Développer un système complet d’**analyse de sentiments** sur les avis touri
 - Comparaison unique **réel vs synthétique** (biais des LLM analysé)
 - Deux modèles NLP : **VADER** + **RoBERTa (Transformer)**
 - Dashboard interactif déployé dans le **Cloud** (Streamlit Community)
-- Analyse approfondie : **statistiques, nuages de mots, exemples, divergences**
+- Analyse approfondie : **statistiques, comparaisons, exemples, divergences**
 
-**Professeur encadrant** : Pr. K. AZGHIOU  
-**Module** : Internet of Things (IoT)
 """)
 
 st.success("Utilise le menu à gauche pour explorer les résultats !")
